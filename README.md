@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on flutter apps. Interested to collaborate with others to develop promising projects in flutter. Currently i am pursuing B.Tech in Comupter Sc and Engineering from Govt>Engineering College Wayanad.
+I'm currently working on flutter apps. Interested to collaborate with others to develop promising projects in flutter. Currently i am pursuing B.Tech in Comupter Sc and Engineering from Govt.Engineering College Wayanad.
 
 
 ## 🌐 Socials:
